@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 HEAD
+=======
+>>>>>>> main
 AHMED NAJEEB WEDS AASHIYA PARVEEN lives happily
